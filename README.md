@@ -31,7 +31,7 @@
 
 ## Features
 
-- **Pong Game:** Enjoy the classic Pong Game with a modern twist.
+- **Pong Game:** Enjoy the classic Pong Game with a modern twist
 - **Real-Time Chat:** Communicate with other users in real-time using the integrated chat feature.
 - **Leaderboard:** Track your performance and compete with others to reach the top of the leaderboard.
 - **Profile Page:** Customize your profile, view your stats, and see your achievements.
